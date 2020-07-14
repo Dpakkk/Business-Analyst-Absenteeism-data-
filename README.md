@@ -7,4 +7,5 @@ features like Date, Reason for Absence are completely transformed into more mean
 Check points are mode inorder to save the effictiveness of code whenever it is required.
 
 model and scaler files are saved using the pickle library. These save the ML training and scaler property for further analysis
+Now after making the module are are delpoying it. These are the work which is supposed to be done by ML engineeer, Data Scientist. Now the folder for Business Analyst contain the files: absenteeism_model.py, model, scaler, preprocessed_absenteeism_data and After_preprocessed(ML Model).ipynb
  
